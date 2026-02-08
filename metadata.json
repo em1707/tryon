@@ -1,0 +1,5 @@
+{
+  "name": "TryOn - Virtual AI Fashion Assistant",
+  "description": "A professional AI-powered virtual try-on application that allows users to see how clothing items look on them using Gemini 2.5 Flash Image technology.",
+  "requestFramePermissions": []
+}
